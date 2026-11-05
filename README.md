@@ -8,7 +8,7 @@
 ## 🖼️ 팀 포스터
 
 <div class="poster">
-  <img src="poster.jpg" alt="SYMPATH 2050 팀 포스터" width="600"/>
+  <img src="poster6.jpg" alt="SYMPATH 2050 팀 포스터" width="600"/>
 </div>
 
 <p align="center" class="poster-caption">
