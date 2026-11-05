@@ -15,7 +15,6 @@
   <sub>
     팀 길온(GIL-ON) | 신지은 · 김태희 · 방현지<br>
     SYMPATH 2050 — 사람을 이해하고, 사람에게 맞춰 변화하는 길<br>
-    AI 활용: ChatGPT 이미지
   </sub>
 </p>
 </div>
