@@ -7,6 +7,7 @@
 
 ## 🖼️ 팀 포스터
 
+<div align="center">
 <div class="poster">
   <img src="poster6.jpg" alt="SYMPATH 2050 팀 포스터" width="600"/>
 </div>
@@ -18,6 +19,7 @@
     AI 활용: ChatGPT 이미지
   </sub>
 </p>
+</div>
 
 ### SYMPATH 2050
 
