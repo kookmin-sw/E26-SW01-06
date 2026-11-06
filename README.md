@@ -19,7 +19,7 @@
 </p>
 </div>
 
-[📄 SYMPATH 2050 포스터 PDF 보기](유레카 6조 포스터.pdf)
+[📄 SYMPATH 2050 포스터 PDF 보기](poster6.pdf)
 
 ### SYMPATH 2050
 
